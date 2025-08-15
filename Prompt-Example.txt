@@ -1,0 +1,29 @@
+Legal & Compliance
+Develop a case strategy to defend a startup accused of trademark infringement, proving prior use and fair competition.
+Develop a defense plan for a client facing breach of contract allegations by highlighting ambiguous terms.
+Develop an argument for a whistleblower facing retaliation, using documented evidence of employer misconduct.
+
+Business & Consulting
+Develop a market entry strategy for a fintech startup expanding into Southeast Asia, focusing on regulations and competition.
+Develop a business turnaround plan for a legacy retail brand losing market share to online competitors.
+Develop a customer retention strategy for a SaaS company struggling with high churn rates.
+
+Data Science & AI
+Develop a fraud detection model for a financial services firm, identifying suspicious transactions in real-time.
+Develop an AI-powered recommendation system for an OTT platform to enhance user engagement.
+Develop a predictive analytics tool to forecast customer demand and optimize inventory management.
+
+Healthcare & Biotech
+Develop an AI-driven diagnostics system to improve early disease detection and reduce hospital readmissions.
+Develop a clinical trial recruitment strategy for a pharmaceutical company testing a new drug.
+Develop a patient data privacy framework for a telemedicine startup, ensuring HIPAA compliance.
+
+Finance & Investment
+Develop an investment strategy for a hedge fund navigating volatile market conditions.
+Develop a financial risk mitigation plan for a startup expanding into foreign markets.
+Develop a budget optimization strategy for a growing nonprofit organization.
+
+Marketing & Consumer Insights
+Develop a digital marketing campaign to boost brand awareness and lead generation.
+Develop a social media engagement strategy to improve customer interaction and loyalty.
+Develop an influencer partnership plan to increase product visibility and sales.
